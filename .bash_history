@@ -35,3 +35,19 @@ f
 
 
 $ git status
+git status
+git commit -am "added new file"
+git add -a
+git status
+git commit
+git push
+git status
+git add .bash_history
+git status
+git --a
+git add --a
+git status
+git commit -am "added new file 2"
+git push
+git diff
+git diff dev...master
