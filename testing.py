@@ -17,4 +17,3 @@ while c < N:
     break
 else:
     print('True')
-    #comment for pull
